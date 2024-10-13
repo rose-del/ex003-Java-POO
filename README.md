@@ -21,7 +21,7 @@ Para executar o programa, utilize os seguintes comandos no terminal:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/Ex01-Java-POO.git
+git clone https://github.com/rose-del/ex003-Java-POO.git
 ```
 
 2. Navegue até o diretório do projeto:
